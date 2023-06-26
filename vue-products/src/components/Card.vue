@@ -30,18 +30,15 @@
 <style lang="css" scoped>
 
     .container{
-
        padding:2rem ;
        background-color:aqua;
-       
-
     }
 
     img{
 
         max-width:50%;
        border-radius: 5px 5px ; 
-       object-fit:contain;
+       
     }
 
 

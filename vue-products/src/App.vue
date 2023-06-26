@@ -9,7 +9,7 @@
 
 <h1>Products</h1>
 
-<p>{{'shoes'}}</p>
+<p>{{shoes}}</p>
 
 </template>
 
@@ -18,15 +18,9 @@
 
 <script>
 
-import Card from '../src/components/Card.vue';
-  export default {
-    components:{
-      Card
-    }
-  
-  }
 
-  export   {
+
+  export default  {
 data(){
   return{
     shoes:[]
@@ -55,6 +49,7 @@ data(){
 }
 
 body{
+
 
   height: 100vh;
 
