@@ -6,7 +6,7 @@
 
             "id":1,
             "name":"Nike",
-            "image":"",
+            "image":"https://i.postimg.cc/t4t27zwk/Screenshot-2023-06-12-133626.png",
             "size":"7"
 
         },
@@ -15,7 +15,7 @@
 
             "id":1,
             "name":"Adidas",
-            "image":"",
+            "image":"https://i.postimg.cc/8CffMdB7/Screenshot-2023-06-14-134818.png",
             "size":"8"
 
         },
@@ -24,7 +24,7 @@
 
             "id":1,
             "name":"Puma",
-            "image":"",
+            "image":"https://i.postimg.cc/wvPdPFjg/Screenshot-2023-06-12-133547.png",
             "size":"9"
 
         },
@@ -32,8 +32,8 @@
         {
 
             "id":1,
-            "name":"Vans",
-            "image":"",
+            "name":"Nike Air Max",
+            "image":"https://i.postimg.cc/t4vvDwMv/Screenshot-2023-06-12-133702.png",
             "size":"6"
 
         }
